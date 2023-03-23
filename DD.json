@@ -4,19 +4,19 @@
 
 
 {
-         "name": "ชื่อเซิรืฟเวอร์",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-AIS.ovpn"
+         "name": "FREE-SG-01-DTAC",
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/SG-06-DTAC.ovpn"
       }
 ,
 {
-         "name": "ชื่อเซิรืฟเวอร์",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-DTAC.ovpn"
+         "name": "FREE-SG-02-TRUE",
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/SG-01-TRUE.ovpn"
       }
 
 
    ],
 "message":"
--*เขียนอะไรก็ได้
+-*Administrator
 
 
 \n\nUpdate:1",
