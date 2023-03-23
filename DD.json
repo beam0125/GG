@@ -1,0 +1,25 @@
+{
+   "files": [    
+
+
+
+{
+         "name": "ชื่อเซิรืฟเวอร์",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-AIS.ovpn"
+      }
+,
+{
+         "name": "ชื่อเซิรืฟเวอร์",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-DTAC.ovpn"
+      }
+
+
+   ],
+"message":"
+-*เขียนอะไรก็ได้
+
+
+\n\nUpdate:1",
+"title":"New Update File" ,
+   "version":1
+}
