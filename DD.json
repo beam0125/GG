@@ -4,7 +4,7 @@
 
 
 {
-         "name": "VIP-TH-Server01-DTAC",
+         "name": "VIP-TH-Server01-DTAC(สำหรับใช้งานทั่วไป)",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/ggnb.ovpn"
       }
 ,
@@ -15,7 +15,7 @@
 ,
 {
          "name": "VIP-TH-Server03-AIS(สำหรับดูหนัง)",
-         "url": ""
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server11_vgg01-Dtac_Social.ovpn"
       }
 ,
 {
