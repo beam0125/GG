@@ -9,13 +9,18 @@
       }
 ,
 {
-         "name": "VIP-TH-Server02-DTAC",
+         "name": "VIP-TH-Server02-DTAC(สำหรับใช้งานทั่วไป)",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server8_vv01-Dtac_Line12App.ovpn"
       }
 ,
 {
-         "name": "VIP-TH-Server03-AIS",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server15_vpn77-True_Youtube.ovpn"
+         "name": "VIP-TH-Server03-AIS(สำหรับดูหนัง)",
+         "url": ""
+      }
+,
+{
+         "name": "VIP-TH-Server04-TRUE(สำหรับดูยูทูป)",
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server15_vff01-True_Youtube.ovpn"
       }
 
 
