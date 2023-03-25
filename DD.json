@@ -4,17 +4,17 @@
 
 
 {
-         "name": "TH-Server01-DTAC",
+         "name": "VIP-TH-Server01-DTAC",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/ggnb.ovpn"
       }
 ,
 {
-         "name": "TH-Server02-DTAC",
+         "name": "VIP-TH-Server02-DTAC",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server8_vv01-Dtac_Line12App.ovpn"
       }
 ,
 {
-         "name": "TH-Server03-AIS",
+         "name": "VIP-TH-Server03-AIS",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server15_vpn77-True_Youtube.ovpn"
       }
 
