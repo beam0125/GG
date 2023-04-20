@@ -5,22 +5,22 @@
 
 {
          "name": "VIP-TH-Server01-DTAC",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/ggnb.ovpn"
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
       }
 ,
 {
          "name": "VIP-TH-Server02-DTAC",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server8_vv01-Dtac_Line12App.ovpn"
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
       }
 ,
 {
          "name": "VIP-TH-Server03-AIS",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server11_vgg01-Dtac_Social.ovpn"
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
       }
 ,
 {
          "name": "VIP-TH-Server04-TRUE",
-         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server15_vff01-True_Youtube.ovpn"
+         "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server7_ssd100-Dtac_Social.ovpn"
       }
 
 
