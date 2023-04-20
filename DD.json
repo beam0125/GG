@@ -4,22 +4,22 @@
 
 
 {
-         "name": "VIP-TH-Server01-DTAC(สำหรับใช้งานทั่วไป)",
+         "name": "VIP-TH-Server01-DTAC",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/ggnb.ovpn"
       }
 ,
 {
-         "name": "VIP-TH-Server02-DTAC(สำหรับใช้งานทั่วไป)",
+         "name": "VIP-TH-Server02-DTAC",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server8_vv01-Dtac_Line12App.ovpn"
       }
 ,
 {
-         "name": "VIP-TH-Server03-AIS(สำหรับดูหนัง)",
+         "name": "VIP-TH-Server03-AIS",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server11_vgg01-Dtac_Social.ovpn"
       }
 ,
 {
-         "name": "VIP-TH-Server04-TRUE(สำหรับดูยูทูป)",
+         "name": "VIP-TH-Server04-TRUE",
          "url": "https://raw.githubusercontent.com/beam0125/GG/main/Server15_vff01-True_Youtube.ovpn"
       }
 
@@ -27,10 +27,10 @@
    ],
 "message":"
  👑อัพเดต👑
- 1. เน็ตฟรีถึงเดือนหน้า📅
+ 1. BEAMVPS📅
  2. ซื้อบัญชีติดต่อแอดมิน📝
  3. รีข้อมูลทุกๆ00:00⌚
- 4. เน็ตมีแค่ ทรู และ ดีแทค❤
+ 4. ผู้สร้าง VPN คือ DEVBEAM❤
  5. เน็ตสำหรับดูหนังฟังเพลง😍
  6. ขอบคุณใช้บริการนะครับ🙏
 
